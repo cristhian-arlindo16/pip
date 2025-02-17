@@ -5,3 +5,8 @@ geopy
 deap
 networkx
 matplotlib
+
+git add requirements.txt
+git commit -m "Agregado streamlit_folium a requirements.txt"
+git push origin main
+
